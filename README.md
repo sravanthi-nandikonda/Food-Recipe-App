@@ -20,6 +20,6 @@ Food Recipe App
 ### What I learned
 The important things i learned while doing this is how to fetch api , how to use Bootstrap classes with react and to render data on the page .
 
-
+The project is published at https://sravanthi-nandikonda.github.io/Food-Recipe-App/
 
 
