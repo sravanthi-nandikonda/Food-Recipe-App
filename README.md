@@ -1,7 +1,7 @@
 Food Recipe App
 
 - A recipe app to search for the ingredients of the dish based on item
-- 
+
 - Users should be able to search for list of dishes with list of ingredients on searching a item 
 
 ## Features
